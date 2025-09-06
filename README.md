@@ -1,4 +1,4 @@
-[ex_2.py](https://github.com/user-attachments/files/22184927/ex_2.py)# POLICY EVALUATION
+# POLICY EVALUATION
 
 ## AIM
 To develop a Python program to evaluate the given policy by maximizing its cumulative reward while dealing with slippery terrain.
@@ -7,7 +7,7 @@ To develop a Python program to evaluate the given policy by maximizing its cumul
 ## POLICY EVALUATION FUNCTION
 <img width="685" height="130" alt="image" src="https://github.com/user-attachments/assets/bb7f8627-3108-4d08-a052-de7522e75645" />
 ## PROGRAM
-"""
+```
 
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
 
@@ -168,7 +168,7 @@ elif(np.sum(V2>=V1)>=11):
   print("The second policy is the better policy")
 else:
   print("Both policies have their merits.")y…]()
-
+```
 ## OUTPUT:
  The first and second policies along with its state value function and compare them
 <img width="595" height="168" alt="image" src="https://github.com/user-attachments/assets/f1558ac7-7bc5-40b4-a46a-95d8ad5b0ccf" />
