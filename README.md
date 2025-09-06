@@ -6,8 +6,8 @@ To develop a Python program to evaluate the given policy by maximizing its cumul
 
 ## POLICY EVALUATION FUNCTION
 <img width="685" height="130" alt="image" src="https://github.com/user-attachments/assets/bb7f8627-3108-4d08-a052-de7522e75645" />
-## PROGRAM
 
+## PROGRAM
 ```
 
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
