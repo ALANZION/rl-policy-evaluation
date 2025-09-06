@@ -7,6 +7,7 @@ To develop a Python program to evaluate the given policy by maximizing its cumul
 ## POLICY EVALUATION FUNCTION
 <img width="685" height="130" alt="image" src="https://github.com/user-attachments/assets/bb7f8627-3108-4d08-a052-de7522e75645" />
 ## PROGRAM
+
 ```
 
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
@@ -171,8 +172,8 @@ else:
 ```
 ## OUTPUT:
  The first and second policies along with its state value function and compare them
+ ```
 <img width="595" height="168" alt="image" src="https://github.com/user-attachments/assets/f1558ac7-7bc5-40b4-a46a-95d8ad5b0ccf" />
-
 <img width="774" height="45" alt="image" src="https://github.com/user-attachments/assets/a35d0cb6-d7fb-4ffa-b27e-c411c9f85f14" />
 
 <img width="404" height="178" alt="image" src="https://github.com/user-attachments/assets/7c10327c-748f-4b47-8221-582c92ba04ba" />
@@ -182,4 +183,5 @@ else:
 <img width="751" height="68" alt="image" src="https://github.com/user-attachments/assets/c986ac8d-ddff-4e87-a4fe-13b0d74ec220" />
 
 <img width="453" height="51" alt="image" src="https://github.com/user-attachments/assets/c781690a-e901-4cda-ac3f-59702464fd23" />
+```
 ## RESULT:
