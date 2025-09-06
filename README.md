@@ -173,7 +173,7 @@ else:
 ## OUTPUT:
  The first and second policies along with its state value function and compare them
  ```
-<img width="595" height="168" alt="image" src="https://github.com/user-attachments/assets/f1558ac7-7bc5-40b4-a46a-95d8ad5b0ccf" />
+![image]<img width="595" height="168" alt="image" src="https://github.com/user-attachments/assets/f1558ac7-7bc5-40b4-a46a-95d8ad5b0ccf" />
 <img width="774" height="45" alt="image" src="https://github.com/user-attachments/assets/a35d0cb6-d7fb-4ffa-b27e-c411c9f85f14" />
 
 <img width="404" height="178" alt="image" src="https://github.com/user-attachments/assets/7c10327c-748f-4b47-8221-582c92ba04ba" />
